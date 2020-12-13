@@ -15,10 +15,14 @@ app.get('/', (req, res)=>{
 });
 
 
-app.get('/login',(req,res) =>{
-     res.render('login')
-})
+app.get('/login',(req, res) =>{
+     res.render('login');
+});
 
+
+app.get('/places', (req, res)=>{
+    res.render('places/places');
+});
 
 app.listen(3000, ()=>{
     console.log('Servidor Rodando!');

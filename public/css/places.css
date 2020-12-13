@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#nav{
+    background-color: #61B15A ;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#nav p{
+    margin-top: 20px;
+}
+
+.form{
+    padding: 10px;
+}
+
+.map{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map img{
+    width: 80vw;
+}
