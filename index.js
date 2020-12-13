@@ -14,9 +14,20 @@ app.get('/', (req, res)=>{
     res.render('index');
 });
 
+app.get('/login',(req, res) =>{
+     res.render('login');
+});
+
+app.get('/places', (req, res)=>{
+    res.render('places/places');
+});
 
 app.get('/login',(req,res) =>{
      res.render('login')
+})
+
+app.get('/landingpage',(req,res) =>{
+    res.render('landingpage')
 })
 
 app.get('/autenticacao', (req,res) =>{
