@@ -9,7 +9,11 @@
     justify-content: space-between;
 }
 #nav p{
-    margin-top: 20px;
+    margin-top: 10px;
+}
+
+.navbar{
+    height: 74px;
 }
 
 .form{
