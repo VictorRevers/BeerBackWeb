@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+
+#nav{
+    background-color: #61B15A ;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    line-height: 36px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#nav p{
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.gps-icon{
+    position: absolute;
+    left: 17.66%;
+    right: 18.35%;
+    margin-top: 50px;
+}
+
+.qr-icon{
+    position: absolute;
+    left: 80.54%;
+    right: 7.79%;
+    margin-top: 50px;
+}
