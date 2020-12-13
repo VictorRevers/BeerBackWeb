@@ -21,3 +21,6 @@
     -moz-transform: translateY( -50% );
     transform: translateY( -50% );
 }
+.logo{
+    height: 50px;
+}

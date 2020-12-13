@@ -19,7 +19,12 @@ app.get('/login',(req,res) =>{
      res.render('login')
 })
 
+app.get('/autenticacao', (req,res) =>{
+    res.render('autenticacao')
+})
 
 app.listen(3000, ()=>{
     console.log('Servidor Rodando!');
 });
+
+
