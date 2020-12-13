@@ -23,6 +23,11 @@ app.get('/autenticacao', (req,res) =>{
     res.render('autenticacao')
 })
 
+
+app.get('/configuracoes', (req,res) =>{
+    res.render('configuracoes')
+})
+
 app.listen(3000, ()=>{
     console.log('Servidor Rodando!');
 });
