@@ -1,0 +1,27 @@
+.forms {
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+}
+.logo{
+    height: 50px;
+    margin-top: 38px;
+    margin-bottom: 392px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.form-control{
+    width: 293px;
+    height: 50px;
+}
+
+.btn{
+    background-color: #61B15A;
+    color: white;
+    width: 293px;
+    height: 50px;
+}
