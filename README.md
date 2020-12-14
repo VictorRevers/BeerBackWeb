@@ -5,5 +5,18 @@
 
 ## Imagens Do aplicativo
 
-### Tela inicial
+### Tela de login
 <img src=”https://github.com/VictorRevers/BeerBackWeb/blob/main/print/%20Tela%20de%20login.png”>
+
+### Tela inicial usuario
+   
+
+### Autenticador via QR code
+
+### Historico 
+
+
+### COnfigurações
+
+
+### Loja de produtos
