@@ -1,21 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-#nav{
-    background-color: #61B15A ;
-    font-family: 'Roboto', sans-serif;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-#nav p{
-    margin-top: 10px;
-}
-
-.navbar{
-    height: 74px;
-}
-
 .form{
     padding: 10px;
 }
