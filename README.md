@@ -6,4 +6,4 @@
 ## Imagens Do aplicativo
 
 ### Tela inicial
-<img src=”./print/autenticador.png”>
+<img src=”https://github.com/VictorRevers/BeerBackWeb/blob/main/print/%20Tela%20de%20login.png”>
