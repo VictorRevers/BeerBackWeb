@@ -1,0 +1,36 @@
+.page-footer{
+    background-color: #FFCE89;
+    margin-top: 140px;
+}
+
+.home-icon{
+    position: absolute;
+    width: 40px;
+    margin-top: 21px;
+    left: 11.92%;
+    right: 81.51%;
+}
+
+.store-icon{
+    position: absolute;
+    width: 40px;
+    margin-top: 21px;
+    left: 35.77%;
+    right: 57.91%;
+}
+
+.historico-icon{
+    position: absolute;
+    width: 40px;
+    margin-top: 21px;
+    left: 58.88%;
+    right: 34.55%;
+}
+
+.settings-icon{
+    position: absolute;
+    width: 40px;
+    margin-top: 21px;
+    left: 82.97%;
+    right: 10.71%;
+}

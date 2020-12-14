@@ -18,6 +18,10 @@ app.get('/receber',(req, res) =>{
     res.render('colector/receive');
 });
 
+app.get('/login-coletor',(req, res) =>{
+    res.render('colector/login-colector');
+});
+
 app.get('/login-usuario',(req, res) =>{
      res.render('user/login-usuario');
 });
@@ -35,7 +39,11 @@ app.get('/autenticacao', (req,res) =>{
 })
 
 app.get('/configuracoes', (req,res) =>{
-    res.render('configuracoes')
+    res.render('user/configuracoes')
+})
+
+app.get('/historico', (req,res) =>{
+    res.render('user/historico')
 })
 
 app.listen(3000, ()=>{
