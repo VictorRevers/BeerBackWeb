@@ -6,10 +6,10 @@
 ## Imagens Do aplicativo
 
 ### Tela de login
-<img src=”./print/%20Tela%20de%20login.png”>
+<img src="caminho" width="100px" >
 
 ### Tela inicial usuario
-   
+   <img src="caminho" width="" >
 
 ### Autenticador via QR code
 
