@@ -14,22 +14,25 @@ app.get('/', (req, res)=>{
     res.render('index');
 });
 
-app.get('/login',(req, res) =>{
-     res.render('login');
+app.get('/receber',(req, res) =>{
+    res.render('colector/receive');
+});
+
+app.get('/login-usuario',(req, res) =>{
+     res.render('user/login-usuario');
 });
 
 app.get('/places', (req, res)=>{
-    res.render('places/places');
+    res.render('user/places/places');
 });
 
 app.get('/landingpage',(req,res) =>{
-    res.render('landingpage')
+    res.render('user/landingpage')
 })
 
 app.get('/autenticacao', (req,res) =>{
-    res.render('autenticacao')
+    res.render('user/autenticacao')
 })
-
 
 app.get('/configuracoes', (req,res) =>{
     res.render('configuracoes')
