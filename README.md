@@ -6,7 +6,7 @@
 ## Imagens Do aplicativo
 
 ### Tela de login
-<img src=”https://github.com/VictorRevers/BeerBackWeb/blob/main/print/%20Tela%20de%20login.png”>
+<img src=”./print/%20Tela%20de%20login.png”>
 
 ### Tela inicial usuario
    
