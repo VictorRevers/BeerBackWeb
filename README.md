@@ -5,4 +5,4 @@
 ## Imagens Do aplicativo
 
 ### Tela inicial
-<img src=”print/autenticador.png”>
+<img src=”./print/autenticador.png”>
